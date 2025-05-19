@@ -6,7 +6,7 @@ import { FaLinkedin, FaTwitter, FaFacebook } from "react-icons/fa";
 
 export default function Footer() {
   return (
-    <div className="bg-gray-900 py-20">
+    <div className="bg-gray-900 pt-20">
       <Container>
         <div className="flex justify-between items-center  ">
           <Image src="/assets/logo.avif" width={200} height={100} alt="logo" />
@@ -16,8 +16,8 @@ export default function Footer() {
             <Link href="/">Privacy Policy</Link>
           </div>
         </div>
-        <hr className="text-gray-700" />
-        <div className="flex justify-between items-center my-10">
+        <hr className="text-gray-700 mt-10" />
+        <div className="flex justify-between items-center py-10">
           <p className="text-gray-400">
             © 2025 mzmedia | all rights reseved by Shipon
           </p>
