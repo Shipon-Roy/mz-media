@@ -17,7 +17,7 @@ export default function Counter() {
           <div
             data-aos="fade-up"
             data-aos-duration="3000"
-            className="flex justify-between items-center mt-20 gap-10"
+            className="flex justify-between items-center mt-20 gap-10 text-gray-200"
           >
             <div className="w-[200px]">
               <h1 className="text-4xl font-bold">200%</h1>

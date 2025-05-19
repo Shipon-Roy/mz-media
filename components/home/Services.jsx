@@ -63,7 +63,7 @@ export default function Services() {
   };
   return (
     <>
-      <div className="my-20 text-center">
+      <div className="my-20 text-center text-gray-200">
         <p data-aos="fade-up" className="uppercase">
           Core services
         </p>

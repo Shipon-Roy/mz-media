@@ -30,7 +30,7 @@ export default function Process() {
   return (
     <Container>
       {/* Heading Section */}
-      <div id="process" className="text-center my-20">
+      <div id="process" className="text-center my-20 text-gray-200">
         <p
           data-aos="fade-up"
           className="uppercase text-sm tracking-widest text-gray-400"
@@ -48,7 +48,7 @@ export default function Process() {
       </div>
 
       {/* Content Section */}
-      <div className="flex flex-col md:flex-row items-center justify-between gap-10">
+      <div className="flex flex-col md:flex-row items-center justify-between gap-10 text-gray-200">
         {/* Text Side */}
         <div className="max-w-md">
           <p
@@ -149,7 +149,7 @@ export default function Process() {
         </div>
       </div>
       {/* Content Section */}
-      <div className="flex flex-col md:flex-row items-center justify-between gap-10 my-32">
+      <div className="flex flex-col md:flex-row items-center justify-between gap-10 my-32 text-gray-200">
         {/* Image Side */}
         <div className="relative w-full md:w-1/2 h-[300px]">
           {/* Center Glow */}
@@ -227,7 +227,7 @@ export default function Process() {
         </div>
       </div>
       {/* Content Section */}
-      <div className="flex flex-col md:flex-row items-center justify-between gap-10 my-32">
+      <div className="flex flex-col md:flex-row items-center justify-between gap-10 my-32 text-gray-200">
         {/* Text Side */}
         <div className="max-w-md">
           <p
@@ -324,7 +324,7 @@ export default function Process() {
         </div>
       </div>
       {/* Content Section */}
-      <div className="flex flex-col md:flex-row items-center justify-between gap-10 my-32">
+      <div className="flex flex-col md:flex-row items-center justify-between gap-10 my-32 text-gray-200">
         {/* Image Side */}
         <div className="relative w-full md:w-1/2 h-[300px]">
           {/* Center Glow */}
@@ -407,7 +407,7 @@ export default function Process() {
         </div>
       </div>
       {/* Content Section */}
-      <div className="flex flex-col md:flex-row items-center justify-between gap-10 my-32">
+      <div className="flex flex-col md:flex-row items-center justify-between gap-10 my-32 text-gray-200">
         {/* Text Side */}
         <div className="max-w-md">
           <p

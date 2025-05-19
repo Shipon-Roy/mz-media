@@ -46,7 +46,7 @@ export default function Review() {
 
   return (
     <Container>
-      <div id="review" className="my-20 text-center">
+      <div id="review" className="my-20 text-center text-gray-200">
         <p data-aos="fade-up" className="uppercase">
           Client testimonials
         </p>

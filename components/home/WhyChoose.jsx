@@ -9,7 +9,7 @@ import { BsArrowUpRightCircleFill } from "react-icons/bs";
 export default function WhyChoose() {
   return (
     <Container>
-      <div className="my-20 text-center">
+      <div className="my-20 text-center text-gray-200">
         <p data-aos="fade-up" data-aos-duration="1000" className="uppercase">
           why choose us
         </p>

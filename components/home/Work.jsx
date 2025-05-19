@@ -31,7 +31,7 @@ export default function Work() {
   };
 
   return (
-    <div id="work" className="text-center my-20">
+    <div id="work" className="text-center my-20 text-gray-200">
       <p data-aos="fade-up" className="uppercase">
         our work
       </p>

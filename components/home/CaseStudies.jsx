@@ -12,7 +12,7 @@ export default function CaseStudies() {
   }, []);
   return (
     <Container>
-      <div id="caseStudy" className="my-20 text-center">
+      <div id="caseStudy" className="my-20 text-center text-gray-200">
         <p data-aos="fade-up" className="uppercase">
           case studies
         </p>
@@ -24,7 +24,7 @@ export default function CaseStudies() {
           <span className="text-gray-500">Some solid</span> <br /> Case studies
         </h3>
       </div>
-      <div className="bg-gradient-to-tl from-gray-900 via-gray-950 to-gray-800 mb-20 p-10 rounded-2xl">
+      <div className="bg-gradient-to-tl from-gray-900 via-gray-950 to-gray-800 mb-20 p-10 rounded-2xl text-gray-200">
         <p data-aos="fade-up" className="uppercase font-bold">
           01 Case study
         </p>
@@ -106,7 +106,7 @@ export default function CaseStudies() {
           </div>
         </div>
       </div>
-      <div className="bg-gradient-to-tl from-gray-900 via-gray-950 to-gray-800 mb-20 p-10 rounded-2xl my-20">
+      <div className="bg-gradient-to-tl from-gray-900 via-gray-950 to-gray-800 mb-20 p-10 rounded-2xl my-20 text-gray-200">
         <p data-aos="fade-up" className="uppercase font-bold">
           02 Case study
         </p>
@@ -190,7 +190,7 @@ export default function CaseStudies() {
           </div>
         </div>
       </div>
-      <div className="bg-gradient-to-tl from-gray-900 via-gray-950 to-gray-800 mb-20 p-10 rounded-2xl my-20">
+      <div className="bg-gradient-to-tl from-gray-900 via-gray-950 to-gray-800 mb-20 p-10 rounded-2xl my-20 text-gray-200">
         <p data-aos="fade-up" className="uppercase font-bold">
           03 Case study
         </p>

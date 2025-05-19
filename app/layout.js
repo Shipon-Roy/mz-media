@@ -22,10 +22,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`dark ${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={` ${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <Header />
-        <div className="pt-24">{children}</div>
+        <div className="pt-24 bg-gray-900">{children}</div>
         <Footer />
       </body>
     </html>
